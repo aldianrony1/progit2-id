@@ -1,12 +1,15 @@
 **Title:** Pro Git (Second Edition)
-
+**Judul:** Pro Git (Edisi Kedua)
 **Authors:** Scott Chacon and Ben Straub
+**Penulis:** Scott Chacon dan Ben Straub
 
 **Short description:**
+**Deskripsi Singkat:**
 
-Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.
-
+ProPro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.
+Pro Git (Edisi Kedua) adalah panduan lengkap Anda untuk Git dan penggunaannya di dunia modern. Git telah datang jauh sejak pertama kali dikembangkan oleh Linus Torvalds untuk pengembangan kernel Linux. Ini telah membawa dunia open source oleh badai sejak didirikan pada tahun 2005, dan buku ini mengajarkan Anda bagaimana cara menggunakannya
 **Long description:**
+**Deskripsi panjang:**
 
 Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.
 
